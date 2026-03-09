@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /drafts/
-Disallow: /private/
 Allow: /
 
 Sitemap: https://vcenspxf.github.io/sitemap.xml
